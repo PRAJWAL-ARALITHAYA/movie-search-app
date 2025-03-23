@@ -1,5 +1,6 @@
 🎬 Movie Search App
 A simple React app that allows users to search for movies and view details like title, release year, and poster. It fetches movie data using the OMDb API.
+warning:Movie name should be correct otherwise it would not display the movies.
 
 🚀 Features
 ✅ Search for any movie by title
